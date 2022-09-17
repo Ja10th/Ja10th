@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Ja10th
+ www.twitter.com/ja10th
 - 😊 I'm a Student of ALX
-- 👀 I’m interested in Web development and App development
+- 👀 I'm technical enthusiast who does web application development. Passionate to contribute open-source projects and make cool products
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on projects with my fellow colleagues
 - 📫 How to reach me @ja10th on twitter
