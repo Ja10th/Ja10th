@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ja10th
- www.twitter.com/ja10th
+ [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 - 😊 I'm a Student of ALX
 - 👀 I'm technical enthusiast who does web application development. Passionate to contribute open-source projects and make cool products
 - 🌱 I’m currently learning React.js
