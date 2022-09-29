@@ -3,7 +3,7 @@
 <img style="" alt="Coder GIF" height=350 width=550 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 <p align="left"> <a href="https://twitter.com/ja10th" target="blank"><img src="https://img.shields.io/twitter/follow/ja10th?logo=twitter&style=for-the-badge" alt="ja10th" /></a> </p>
 
-- 🔭 I’m currently working on [Mac Appstore redesign](https://github.com/Ja10th/Mac-Appstore-Redesign)
+- 🔭 I’m currently working on [Mac Appstore redesign](https://github.com/Ja10th/E-commerce-store)
 
 - 🌱 I’m currently learning **React redux**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **Jamesoluwaleye@gmail.com**
 
-- 📄 Know about my experiences [https://jamicreation.netlify.app](https://jamicreation.netlify.app)
+- 📄 Check out my portfolio website [https://jamicreation.netlify.app](https://jamicreation.netlify.app)
 
 - ⚡ Fun fact **I believe stress can decrease IQ as much as 13%**
 
