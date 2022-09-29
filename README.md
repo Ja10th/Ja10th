@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [E-Commerce Store](https://github.com/Ja10th/E-commerce-store)
 
-- 🌱 I’m currently learning **React redux**
+- 🌱 I’m currently learning **Next.js, Node.js**
 
 - 👨‍💻 All of my projects are available at [github.com/ja10th](github.com/ja10th)
 
