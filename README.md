@@ -30,6 +30,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ja10th&show_icons=true&locale=en&layout=compact" alt="ja10th" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ja10th&" alt="ja10th" /></p>
 
 ![Blue Beige Aesthetic Beauty Introduction Scrapbook All About Me Poster](https://user-images.githubusercontent.com/100203073/188085156-f8bc0cfc-b475-44d1-8998-676ac1758a1b.png)
