@@ -2,17 +2,17 @@
 <h3 align="center">I'm technical enthusiast who does web application development. Passionate to contribute open-source projects and make cool products</h3>
 <p align="left"> <a href="https://twitter.com/ja10th" target="blank"><img src="https://img.shields.io/twitter/follow/ja10th?logo=twitter&style=for-the-badge" alt="ja10th" /></a> </p>
 
-- 🔭 I’m currently working on [E-Commerce Store](https://github.com/Ja10th/E-commerce-store)
+- 🔭 I’m currently breaking down complex topics to clear and concise documentations on [Twelve](https://twelve.hashnode.dev)
 
-- 🌱 I’m currently learning **Next.js, Node.js**
+- 🌱 My areas of expertise include **DevOps, Data Analysis, Front-end development, Machine-learning**
 
 - 👨‍💻 All of my projects are available at [github.com/ja10th](github.com/ja10th)
 
-- 💬 Ask me about **React, JavaScript**
+- 💬 Ask me about **Anything Technology**
 
 - 📫 How to reach me **Jamesoluwaleye@gmail.com**
 
-- 📄 Check out my portfolio website [https://jamicreation.netlify.app](https://jamicreation.netlify.app)
+- 📄 Check out my portfolio website [BLOG](https://twelve.hashnode.dev)
 
 - ⚡ Fun fact **I believe stress can decrease IQ as much as 13%**
 
