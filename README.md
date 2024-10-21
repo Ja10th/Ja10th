@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently breaking down complex topics to clear and concise documentations on [Twelve](https://twelve.hashnode.dev)
 
-- 🌱 My areas of expertise include **DevOps, Data Analysis, Front-end development, Machine-learning**
+- 🌱 Tools and Frameworks: React, Next.Js, Typescript, Redux, RestAPI, GraphQL, Appwrite (backend), Sanity (CMS), Tailwind CSS, (Acertenity, Material, Shadcn) UI and GIT
 
 - 👨‍💻 All of my projects are available at [github.com/ja10th](github.com/ja10th)
 
