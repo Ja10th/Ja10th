@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm James Oluwaleye</h1>
-<p align="center">MERN StacK Developer, Founder @ theHowto Forum, Melhorar Studio & Writer </p>
+<h1 align="left">Hi 👋, I'm James Oluwaleye</h1>
+<p align="left">MERN StacK Developer, Founder @ theHowto Forum, Melhorar Studio & Writer </p>
 <p align="left"> <a href="https://twitter.com/ja10th" target="blank"><img src="https://img.shields.io/twitter/follow/ja10th?logo=twitter&style=for-the-badge" alt="ja10th" /></a> </p>
 
 - 🔭 I’m currently breaking down complex topics to clear and concise documentations on [Twelve](https://twelve.hashnode.dev)
